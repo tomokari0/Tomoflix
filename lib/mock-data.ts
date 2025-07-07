@@ -99,14 +99,14 @@ Pero algo ocurre..`,
   {
     id: '6',
     type: 'movie',
-    title: 'Interstellar',
-    description: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanity\'s survival.',
+    title: '1983',
+    description: 'No',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/1983/mqdefault.jpg?updatedAt=1751928744060',
+      medium: 'https://ik.imagekit.io/4nltps9rs/1983/hqdefault.jpg?updatedAt=1751928744030',
+      large: 'https://ik.imagekit.io/4nltps9rs/1983/sddefault.jpg?updatedAt=1751928743920'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/1983/_VIEJO__1983_%20Mini%20Pelicula%20de%20Terror_%C2%A6%C2%A6_%20Gacha%20Neon_%C2%A6%C2%A6_Original_%C2%A6%C2%A6__CONTIENE%20SANGRE_%20(480p_30fps_H264-128kbit_AAC).mp4?updatedAt=1751928755930',
     duration: 169,
     genre: ['Drama', 'Sci-Fi'],
     tags: ['space', 'time', 'family'],
@@ -117,14 +117,14 @@ Pero algo ocurre..`,
   {
     id: '7',
     type: 'movie',
-    title: 'The Dark Knight',
+    title: 'Corazón demoniaco',
     description: 'Batman accepts one of the greatest psychological and physical tests of his ability to fight injustice.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/corazon%20demoniaco/mqdefault%20(1).jpg?updatedAt=1751928859513',
+      medium: 'https://ik.imagekit.io/4nltps9rs/corazon%20demoniaco/hqdefault%20(1).jpg?updatedAt=1751928859264',
+      large: 'https://ik.imagekit.io/4nltps9rs/corazon%20demoniaco/sddefault%20(1).jpg?updatedAt=1751928859407'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/corazon%20demoniaco/_Corazon%20demoniaco_mini%20pelicula%20Original%20gacha%20club%20%20%E2%9D%A3%EF%B8%8E%C3%87rist%C3%A5%C5%82is%20%C4%90i%C3%A5m%C3%B8n%C4%91s%E2%9D%A3%EF%B8%8E%20(1080p_30fps_H264-128kbit_AAC).mp4?updatedAt=1751928892173',
     duration: 152,
     genre: ['Action', 'Crime', 'Drama'],
     tags: ['superhero', 'joker', 'gotham'],
@@ -135,14 +135,14 @@ Pero algo ocurre..`,
   {
     id: '8',
     type: 'movie',
-    title: 'Pulp Fiction',
+    title: 'Enfermo',
     description: 'The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2889942/pexels-photo-2889942.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2889942/pexels-photo-2889942.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2889942/pexels-photo-2889942.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/enfermo/default.jpg?updatedAt=1751929289488',
+      medium: 'https://ik.imagekit.io/4nltps9rs/enfermo/mqdefault%20(2).jpg?updatedAt=1751929289146',
+      large: 'https://ik.imagekit.io/4nltps9rs/enfermo/hqdefault%20(2).jpg?updatedAt=1751929289384'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/enfermo/enfermo%20mini%20pel%C3%ADcula%20cuddles%20terror%20gacha%20life%20(leer%20descripci%C3%B3n)%20(1080p_30fps_H264-128kbit_AAC).mp4?updatedAt=1751929323701',
     duration: 154,
     genre: ['Crime', 'Drama'],
     tags: ['nonlinear', 'violence', 'dialogue'],
