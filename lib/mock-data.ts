@@ -153,14 +153,14 @@ Pero algo ocurre..`,
   {
     id: '9',
     type: 'movie',
-    title: 'Forrest Gump',
+    title: 'Roommates With The Alpha',
     description: 'The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold from the perspective of an Alabama man.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/Roommates%20With%20The%20Alpha/hqdefault%20(3).jpg?updatedAt=1751932858672',
+      medium: 'https://ik.imagekit.io/4nltps9rs/Roommates%20With%20The%20Alpha/sddefault%20(2).jpg?updatedAt=1751932858779',
+      large: 'https://ik.imagekit.io/4nltps9rs/Roommates%20With%20The%20Alpha/maxresdefault.jpg?updatedAt=1751932859012'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/Roommates%20With%20The%20Alpha/Roommates%20With%20The%20Alpha.mp4?updatedAt=1751933006136',
     duration: 142,
     genre: ['Drama', 'Romance'],
     tags: ['life', 'history', 'destiny'],
@@ -171,14 +171,14 @@ Pero algo ocurre..`,
   {
     id: '10',
     type: 'movie',
-    title: 'The Godfather',
+    title: 'Niñero',
     description: 'The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2897883/pexels-photo-2897883.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2897883/pexels-photo-2897883.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2897883/pexels-photo-2897883.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/Ni%C3%B1ero/hqdefault%20(4).jpg?updatedAt=1751932881882',
+      medium: 'https://ik.imagekit.io/4nltps9rs/Ni%C3%B1ero/sddefault%20(3).jpg?updatedAt=1751932881906',
+      large: 'https://ik.imagekit.io/4nltps9rs/Ni%C3%B1ero/maxresdefault%20(1).jpg?updatedAt=1751932881796'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/Ni%C3%B1ero/Ni%C3%B1ero.mp4?updatedAt=1751933160795',
     duration: 175,
     genre: ['Crime', 'Drama'],
     tags: ['mafia', 'family', 'power'],
@@ -189,14 +189,14 @@ Pero algo ocurre..`,
   {
     id: '11',
     type: 'movie',
-    title: 'Goodfellas',
+    title: 'NUESTRA VERDADERA HISTORIA DE AMOR',
     description: 'The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2876511/pexels-photo-2876511.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2876511/pexels-photo-2876511.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2876511/pexels-photo-2876511.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/NUESTRA%20VERDADERA%20HISTORIA%20DE%20AMOR%20/hqdefault%20(5).jpg?updatedAt=1751932890915',
+      medium: 'https://ik.imagekit.io/4nltps9rs/NUESTRA%20VERDADERA%20HISTORIA%20DE%20AMOR%20/sddefault%20(4).jpg?updatedAt=1751932890946',
+      large: 'https://ik.imagekit.io/4nltps9rs/NUESTRA%20VERDADERA%20HISTORIA%20DE%20AMOR%20/maxresdefault%20(2).jpg?updatedAt=1751932891069'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/NUESTRA%20VERDADERA%20HISTORIA%20DE%20AMOR%20/NUESTRA%20VERDADERA%20HISTORIA%20DE%20AMOR.mp4?updatedAt=1751933200181',
     duration: 146,
     genre: ['Crime', 'Drama'],
     tags: ['mafia', 'biography', 'violence'],
@@ -207,14 +207,14 @@ Pero algo ocurre..`,
   {
     id: '12',
     type: 'movie',
-    title: 'The Shawshank Redemption',
+    title: 'Pastelito',
     description: 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2882552/pexels-photo-2882552.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2882552/pexels-photo-2882552.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2882552/pexels-photo-2882552.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/Pastelito/hqdefault%20(6).jpg?updatedAt=1751932902230',
+      medium: 'https://ik.imagekit.io/4nltps9rs/Pastelito/sddefault%20(5).jpg?updatedAt=1751932902172',
+      large: 'https://ik.imagekit.io/4nltps9rs/Pastelito/maxresdefault%20(3).jpg?updatedAt=1751932902101'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/Pastelito/_Pastelito_Mini%20pel%C3%ADcula%20Gacha%20Life%E2%81%84%E2%81%84Original%E2%81%84%E2%81%84SASHITA%20(1080p_30fps_H264-128kbit_AAC).mp4?updatedAt=1751932319168',
     duration: 142,
     genre: ['Drama'],
     tags: ['prison', 'friendship', 'hope'],
@@ -225,14 +225,14 @@ Pero algo ocurre..`,
   {
     id: '13',
     type: 'movie',
-    title: 'Schindler\'s List',
+    title: 'El niño con falda\'s List',
     description: 'In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/El%20ni%C3%B1o%20con%20falda/hqdefault%20(7).jpg?updatedAt=1751932912120',
+      medium: 'https://ik.imagekit.io/4nltps9rs/El%20ni%C3%B1o%20con%20falda/sddefault%20(6).jpg?updatedAt=1751932912172',
+      large: 'https://ik.imagekit.io/4nltps9rs/El%20ni%C3%B1o%20con%20falda/maxresdefault%20(4).jpg?updatedAt=1751932912091'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/El%20ni%C3%B1o%20con%20falda/El%20ni%C3%B1o%20con%20falda%20%E2%81%84%E2%81%84%20Gacha%20Life%20%E2%81%84%E2%81%84%20Minipelicula%20(gay%20%E2%81%84%20Yaoi)%20%C2%A6%C2%A6%20Gacha%20Life%20World%20(720p_30fps_H264-128kbit_AAC).mp4?updatedAt=1751932372151',
     duration: 195,
     genre: ['Drama', 'History'],
     tags: ['holocaust', 'war', 'heroism'],
@@ -243,14 +243,14 @@ Pero algo ocurre..`,
   {
     id: '14',
     type: 'movie',
-    title: 'Fight Club',
+    title: 'cuando cupido se enamora',
     description: 'An insomniac office worker and a devil-may-care soap maker form an underground fight club.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/Cuando%20cupido%20se%20enamora/hqdefault%20(8).jpg?updatedAt=1751932932183',
+      medium: 'https://ik.imagekit.io/4nltps9rs/Cuando%20cupido%20se%20enamora/sddefault%20(7).jpg?updatedAt=1751932932372',
+      large: 'https://ik.imagekit.io/4nltps9rs/Cuando%20cupido%20se%20enamora/mqdefault%20(3).jpg?updatedAt=1751932932177'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/Cuando%20cupido%20se%20enamora/CUANDO~1.MP4?updatedAt=1751932466409',
     duration: 139,
     genre: ['Drama', 'Thriller'],
     tags: ['identity', 'society', 'rebellion'],
@@ -261,14 +261,14 @@ Pero algo ocurre..`,
   {
     id: '15',
     type: 'movie',
-    title: 'The Lord of the Rings: The Fellowship of the Ring',
+    title: 'seré rey a mi forma',
     description: 'A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.',
     thumbnails: {
-      small: 'https://images.pexels.com/photos/2889942/pexels-photo-2889942.jpeg?auto=compress&cs=tinysrgb&w=400',
-      medium: 'https://images.pexels.com/photos/2889942/pexels-photo-2889942.jpeg?auto=compress&cs=tinysrgb&w=800',
-      large: 'https://images.pexels.com/photos/2889942/pexels-photo-2889942.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      small: 'https://ik.imagekit.io/4nltps9rs/Sere%20rey%20a%20mi%20forma/mqdefault%20(4).jpg?updatedAt=1751932939314',
+      medium: 'https://ik.imagekit.io/4nltps9rs/Sere%20rey%20a%20mi%20forma/hqdefault%20(9).jpg?updatedAt=1751932939495',
+      large: 'https://ik.imagekit.io/4nltps9rs/Sere%20rey%20a%20mi%20forma/sddefault%20(8).jpg?updatedAt=1751932939433'
     },
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
+    videoUrl: 'https://ik.imagekit.io/4nltps9rs/Sere%20rey%20a%20mi%20forma/%E2%9A%98Sere%20rey%20a%20mi%20forma%E2%9A%98%E2%81%84%E2%81%84%20MiniPelicula%E2%81%84%E2%81%84Gay%E2%81%84%E2%81%84%20gacha%20club%20(aburrido)%20(720p_30fps_H264-128kbit_AAC).mp4?updatedAt=1751932835258',
     duration: 178,
     genre: ['Adventure', 'Drama', 'Fantasy'],
     tags: ['fantasy', 'epic', 'friendship'],
